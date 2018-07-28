@@ -1,0 +1,60 @@
+
+body {
+    background-image: url("../images/funky-lines.png");
+
+}
+
+
+.head {color: rgb(0, 0, 0);
+    max-width:960px;
+    margin:0 auto;
+    }
+
+
+
+header {box-sizing: content-box;
+        border-color:gray;
+        border-style:solid;
+        height:75px;
+        background-color: #ffffff;
+    }
+
+#h1 {background-color:#4aaaa5;
+    padding-top: 20px;
+    padding-bottom:10px;
+    float: left;
+    color:#ffffff;
+    margin-top:-16px}
+
+.link {float: right;
+    display: inline;
+    margin-top:20px;
+    margin-right:5px;}
+
+.h2 {text-align: left;
+    margin-top:10px;
+    margin-left: 10px;
+    color:#4aaaa5}
+
+#container {
+    max-width:960px;
+    padding-top:10px;
+    margin:60px 10px 40px 95px;
+    background-color: #ffffff;
+    text-align: justify;
+    text-justify: auto;4
+}
+
+
+
+img {float: left;
+    box-align: left;
+    margin:10px;}
+
+footer{background-color: #666666;
+    border-top-style:solid;
+    border-color: blue;
+    text-align: center;
+    padding:20px;
+    margin-top:100px;
+}
