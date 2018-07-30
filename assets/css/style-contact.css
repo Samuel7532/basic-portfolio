@@ -39,15 +39,10 @@ header {box-sizing: content-box;
     float:right;
 }
 
-.h2 {text-align: left;
-    margin-top:10px;
-    margin-left: 10px;
-    color:#4aaaa5}
-
 #container {
     max-width:960px;
     padding-top:10px;
-    margin:60px 60px 50px 139px;
+    margin:60px 60px 30px 139px;
     background-color: #ffffff;
     text-align: justify;
     text-justify: auto;
@@ -56,16 +51,25 @@ header {box-sizing: content-box;
     border-width:3px;
 }
 
+form {margin-left: 50px;
+    padding-bottom: 10px;}
+
+h2{ padding-left: 50px;
+    padding-bottom: 40px;
+    color: teal;
+}
+
 
 
 img {float: left;
     box-align: left;
-    margin:10px;}
+    margin:10px;
+}
 
 footer{background-color: #666666;
     border-top-style:solid;
     border-color: blue;
     text-align: center;
     padding:20px;
-    margin-top:100px;
+    margin-top:136px;
 }
